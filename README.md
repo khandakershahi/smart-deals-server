@@ -1,1 +1,1 @@
-This is the smart deals site server repo.
+# This is the smart deals site server repo.
